@@ -1,0 +1,14 @@
+# per-step training frames (hundreds of MB per run)
+Vid/
+*.zip
+
+# jupyter
+.ipynb_checkpoints/
+
+# the paper itself - read it at https://arxiv.org/abs/2006.10739
+FourierFeaturesPaper.pdf
+
+# earlier drafts, superseded by 3FourierFeatures.ipynb
+git/
+LinAlgLib.ipynb
+ClassicalML.ipynb
